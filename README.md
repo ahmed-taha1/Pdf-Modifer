@@ -1,5 +1,5 @@
 ## PDF Modifier
-Application features
+#Application features:
 * Separate PDF file into pages each one will be saved in a separate PDF file
 * Choose a page from the PDF and split it as a single pdf file
 * merge two PDF files into one PDF file
